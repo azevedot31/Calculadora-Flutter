@@ -9,4 +9,4 @@ Uma calculadora criada pelos alunos:
 
 # Problemas encontrados:
 
-* Caso seja encontrado algum erro, por favor nos reporte.
+Caso seja encontrado algum erro, por favor nos reporte.
