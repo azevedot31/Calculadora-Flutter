@@ -1,6 +1,6 @@
 # Calculadora
 
-- Uma calculadora criada pelos alunos:
+Uma calculadora criada pelos alunos:
 
 * Abner de Oliveira Amorim;
 * Ana Luisa Esteves de Oliveira;
